@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{674e665c-a5f0-4c77-885f-e107f573344c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession5.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession6.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession7.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession8.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession9.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession10.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession11.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession12.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession13.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession14.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession20.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession21.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession22.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession23.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession24.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession25.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DrawNode3D.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession26.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession27.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession28.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Lession29.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlaneRender.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession5.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession6.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession7.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession8.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession9.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession10.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession11.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession12.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession13.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession14.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession20.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession21.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession22.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession23.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession24.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession25.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DrawNode3D.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession26.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession27.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession28.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lession29.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlaneRender.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\Lession5\Lessioni5.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession5\Lessioni5.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession6\Lessioni6.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession6\Lessioni6.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession7\Lessioni7.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession7\Lessioni7.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession8\Lessioni8.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession8\Lessioni8.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession9\Lession9.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession9\Lession9.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession10\Lession10.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession10\Lession10.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession11\Lession11.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession11\Lession11.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession12\Lession12.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession12\Lession12.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession13\Lession13.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession13\Lession13.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession14\Lession14.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession14\Lession14.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession20\Lession20.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession20\Lession20.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession21\Lession21.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession21\Lession21.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession22\Lession22.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession22\Lession22.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession23\Lession23.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession23\Lession23.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession24\Lession24.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession24\Lession24.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession25\Lession25.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession25\Lession25.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession26\Lession26.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession26\Lession26.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession26\tree_swing.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession27\Lession27.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession27\Lession27.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession28\Lession28.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession28\Lession28.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession29\3d_AniMesh.material">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession29\Shaders3D\Lession29.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="..\Resources\Lession29\Shaders3D\Lession29.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
